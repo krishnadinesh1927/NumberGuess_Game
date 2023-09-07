@@ -1,0 +1,139 @@
+/* App.css */
+
+/* Center the content */
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #641220; /* Main background color */
+  color: #ffffff; /* Text color (white) */
+}
+
+/* Header styles */
+h1 {
+  color: #ffffff; /* Header text color (white) */
+  background-color: #e01e37; /* Header background color */
+  padding: 10px 20px;
+  border-radius: 5px; /* Add rounded corners to the header */
+  margin-bottom: 20px;
+}
+
+/* Button styles */
+button {
+  background-color: #85182a; /* Button background color */
+  color: #ffffff; /* Button text color (white) */
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px; /* Add rounded corners to buttons */
+  margin-top: 10px;
+}
+
+label {
+  margin-bottom: 10px; /* Add margin to the bottom of the label */
+  color: #ffffff; /* Label text color (white) */
+  display: block; /* Ensure labels are displayed as blocks */
+}
+
+/* Input styles */
+input {
+  background-color: #a11d33; /* Input background color */
+  color: #ffffff; /* Input text color (white) */
+  border: none;
+  padding: 10px;
+  border-radius: 5px; /* Add rounded corners to inputs */
+}
+
+/* Message styles */
+.message {
+  color: #a71e34; /* Message text color */
+}
+
+/* Number styles */
+.number {
+  color: #b21e35; /* Number text color */
+}
+
+/* Guess History styles */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  color: #bd1f36; /* Guess History text color */
+  margin-bottom: 5px;
+  border: 1px solid #c71f37; /* Add borders to list items */
+  padding: 5px;
+  border-radius: 5px; /* Add rounded corners to list items */
+}
+
+/* Add additional styles as needed */
+/* App.css */
+
+/* Center the content */
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #641220; /* Main background color */
+  color: #ffffff; /* Text color (white) */
+}
+
+/* Header styles */
+h1 {
+  color: #ffffff; /* Header text color (white) */
+  background-color: #e01e37; /* Header background color */
+  padding: 10px 20px;
+  border-radius: 5px; /* Add rounded corners to the header */
+  margin-bottom: 20px;
+}
+
+/* Button styles */
+button {
+  background-color: #85182a; /* Button background color */
+  color: #ffffff; /* Button text color (white) */
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px; /* Add rounded corners to buttons */
+}
+
+/* Input styles */
+input {
+  background-color: #a11d33; /* Input background color */
+  color: #ffffff; /* Input text color (white) */
+  border: none;
+  padding: 10px;
+  border-radius: 5px; /* Add rounded corners to inputs */
+}
+
+/* Message styles */
+.message {
+  color: #a71e34; /* Message text color */
+}
+
+/* Number styles */
+.number {
+  color: #b21e35; /* Number text color */
+}
+
+/* Guess History styles */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  color: #bd1f36; /* Guess History text color */
+  margin-bottom: 5px;
+  border: 1px solid #c71f37; /* Add borders to list items */
+  padding: 5px;
+  border-radius: 5px; /* Add rounded corners to list items */
+}
+
+/* Add additional styles as needed */
